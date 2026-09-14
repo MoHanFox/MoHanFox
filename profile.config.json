@@ -1,0 +1,81 @@
+{
+    "github_username": "MOHAN",
+    "title": "HALO",
+    "subtitle": "HELLO WORLD",
+    "font_color": "ffffff",
+    "typing_color": "BB86FC",
+    "typing_lines": [
+        "在更新了、在更新了",
+        "发现、创造 ✨",
+        "Furry 🐺"
+    ],
+
+    "tech_stack": [
+        {
+            "title": "主要语言",
+            "items": [
+                {
+                    "name": "Java",
+                    "badge": "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+                },
+                {
+                    "name": "C#",
+                    "badge": "https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+                }
+            ]
+        },
+        {
+            "title": "框架 & 工具",
+            "items": [
+                {
+                    "name": "Unity",
+                    "badge": "https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white",
+                    "url": "https://unity.com"
+                },
+                {
+                    "name": "IntelliJ IDEA",
+                    "badge": "https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"
+                },
+                {
+                    "name": "Visual Studio",
+                    "badge": "https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
+                }
+            ]
+        },
+        {
+            "title": "逆向 & 底层",
+            "items": [
+            ]
+        },
+        {
+            "title": "艺术创作",
+            "items": [
+                {
+                    "name": "Photoshop",
+                    "badge": "https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"
+                },
+                {
+                    "name": "Blender",
+                    "badge": "https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"
+                }
+            ]
+        }
+    ],
+    "socials": [
+        {
+            "name": "Gitee",
+            "url": "https://gitee.com/MoHanBi",
+            "badge": "https://img.shields.io/badge/Gitee-MoHanBi-C71D23?style=for-the-badge&logo=gitee&logoColor=white"
+        },
+        {
+            "name": "Bilibili",
+            "url": "https://space.bilibili.com/438116463",
+            "badge": "https://img.shields.io/badge/Bilibili-438116463-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"
+        },
+        {
+            "name": "X",
+            "url": "https://x.com/FlySMoHan",
+            "badge": "https://img.shields.io/badge/X-@FlySMoHan-000000?style=for-the-badge&logo=x&logoColor=white"
+        }
+    ]
+}
