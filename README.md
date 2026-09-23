@@ -14,20 +14,19 @@
 
 <div align="center">
 
-**主要语言**
+**正在熬制八宝粥**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+<img src="https://img.shields.io/badge/%E9%80%86%E5%90%91%E5%88%86%E6%9E%90-4B0082?style=for-the-badge" alt="逆向分析" />
+<img src="https://img.shields.io/badge/%E5%A5%BD%E6%83%B3%E6%88%90%E4%B8%BA%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88-7B1FA2?style=for-the-badge" alt="好想成为全栈工程师" />
 
 **框架 & 工具**
 
 <a href="https://unity.com" target="_blank"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+<a href="https://www.jetbrains.com" target="_blank"><img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" /></a>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-
-**逆向 & 底层**
-
-
 
 **艺术创作**
 
