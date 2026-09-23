@@ -12,7 +12,7 @@
 
     "tech_stack": [
         {
-            "title": "主要语言",
+            "title": "正在熬制八宝粥",
             "items": [
                 {
                     "name": "Java",
@@ -21,6 +21,18 @@
                 {
                     "name": "C#",
                     "badge": "https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+                },
+                {
+                    "name": "Golang",
+                    "badge": "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+                },
+                {
+                    "name": "逆向分析",
+                    "badge": "https://img.shields.io/badge/%E9%80%86%E5%90%91%E5%88%86%E6%9E%90-4B0082?style=for-the-badge"
+                },
+                {
+                    "name": "好想成为全栈工程师",
+                    "badge": "https://img.shields.io/badge/%E5%A5%BD%E6%83%B3%E6%88%90%E4%B8%BA%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88-7B1FA2?style=for-the-badge"
                 }
             ]
         },
@@ -33,18 +45,14 @@
                     "url": "https://unity.com"
                 },
                 {
-                    "name": "IntelliJ IDEA",
-                    "badge": "https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"
+                    "name": "JetBrains",
+                    "badge": "https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white",
+                    "url": "https://www.jetbrains.com"
                 },
                 {
                     "name": "Visual Studio",
                     "badge": "https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
                 }
-            ]
-        },
-        {
-            "title": "逆向 & 底层",
-            "items": [
             ]
         },
         {
